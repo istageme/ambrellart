@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 56,
+    "uniqCompNum": 58,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "",
@@ -42,7 +42,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"catalog.html\" aria-expanded=\"true\">CATALOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"payment.html\" aria-expanded=\"true\">PAYMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\" aria-expanded=\"true\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"http://yingkebao.top/f/59e01741e7aea91d2eac82d6\" target=\"_blank\">QUATATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://koudaigou.net/f/59e01390e7aea91d2eac774e\" target=\"_blank\">VISIT</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"catalog.html\" aria-expanded=\"false\">CATALOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"payment.html\" aria-expanded=\"false\">PAYMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"http://yingkebao.top/f/59e01741e7aea91d2eac82d6\" target=\"_blank\">QUATATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://koudaigou.net/f/59e01390e7aea91d2eac774e\" target=\"_blank\">VISIT</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -186,71 +186,6 @@
           "_anchor": "msg-box5-g"
         },
         {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f97352",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-f"
-        },
-        {
           "_params": {
             "fullWidth": false,
             "paddingTop": 3,
@@ -343,7 +278,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "we are your one-stop of all art carftsbusienss in China.",
+          "title": "we are your one-stop of all art carfts busienss in China.",
           "meta": "By Jonathan zhang",
           "_tags": [
             "Theme"
@@ -381,7 +316,7 @@
           },
           "title": "Worldwide Online Payment Accepted.",
           "text": "PAYONEER: 5300 7289 2110 34555",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">START A ONLINE PAYMENT</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"payment.html\" data-toolbar=\"-mbrBtnMove\">START A ONLINE PAYMENT</a>",
           "_tags": [
             "Theme"
           ],
@@ -425,106 +360,6 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-a"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "MODERN STYLES",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-9"
-        },
-        {
-          "_params": {
-            "firstType": "default",
-            "secondType": "green",
-            "thirdType": "favorite",
-            "fourthType": "orange",
-            "fifthType": "hidden",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showButtons": true,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "STANDARD",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "per month",
-          "list1": "<ul><li><b>32 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>15 GB</b> Bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title2": "BUSINESS",
-          "currency2": "$",
-          "price2": "100",
-          "period2": "per month",
-          "list2": "<ul><li><b>80 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>20 GB</b> Bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title3": "PREMIUM",
-          "currency3": "$",
-          "price3": "299",
-          "period3": "per month",
-          "list3": "<ul><li><b>100 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>50 GB</b> Bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title4": "ULTIMATE",
-          "currency4": "$",
-          "price4": "599",
-          "period4": "per month",
-          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title5": "EXTENDED",
-          "currency5": "$",
-          "price5": "0",
-          "period5": "per month",
-          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-1"
         },
         {
           "_params": {
@@ -648,7 +483,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"catalog.html\" aria-expanded=\"true\">CATALOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"payment.html\" aria-expanded=\"true\">PAYMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\" aria-expanded=\"true\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"http://yingkebao.top/f/59e01741e7aea91d2eac82d6\" target=\"_blank\">QUATATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://koudaigou.net/f/59e01390e7aea91d2eac774e\" target=\"_blank\">VISIT</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"catalog.html\" aria-expanded=\"false\">CATALOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"payment.html\" aria-expanded=\"false\">PAYMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"http://yingkebao.top/f/59e01741e7aea91d2eac82d6\" target=\"_blank\">QUATATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://koudaigou.net/f/59e01390e7aea91d2eac774e\" target=\"_blank\">VISIT</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -992,7 +827,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"catalog.html\" aria-expanded=\"true\">CATALOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"payment.html\" aria-expanded=\"true\">PAYMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\" aria-expanded=\"true\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"http://yingkebao.top/f/59e01741e7aea91d2eac82d6\" target=\"_blank\">QUATATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://koudaigou.net/f/59e01390e7aea91d2eac774e\" target=\"_blank\">VISIT</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"catalog.html\" aria-expanded=\"false\">CATALOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"payment.html\" aria-expanded=\"false\">PAYMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"http://yingkebao.top/f/59e01741e7aea91d2eac82d6\" target=\"_blank\">QUATATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://koudaigou.net/f/59e01390e7aea91d2eac774e\" target=\"_blank\">VISIT</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1276,7 +1111,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"catalog.html\" aria-expanded=\"true\">CATALOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"payment.html\" aria-expanded=\"true\">PAYMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\" aria-expanded=\"true\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"http://yingkebao.top/f/59e01741e7aea91d2eac82d6\" target=\"_blank\">QUATATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://koudaigou.net/f/59e01390e7aea91d2eac774e\" target=\"_blank\">VISIT</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"catalog.html\" aria-expanded=\"false\">CATALOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"payment.html\" aria-expanded=\"false\">PAYMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"http://yingkebao.top/f/59e01741e7aea91d2eac82d6\" target=\"_blank\">QUATATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://koudaigou.net/f/59e01390e7aea91d2eac774e\" target=\"_blank\">VISIT</a></li>",
           "_tags": [
             "Theme"
           ],
